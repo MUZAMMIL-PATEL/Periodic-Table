@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    background-color: cornflowerblue;
+    color: yellow;
+    text-transform: uppercase;
+    text-align: center;
+}
+table {
+    text-align: center;
+    width: 80%;
+    height: 400px;
+    empty-cells: hide;
+    margin-top: 100px;
+}
+td {
+    border: 2px solid;
+    font-weight: bold;
+}
+td {
+    text-transform: capitalize;
+}
+.darkpink {
+    background-color: rgb(255, 78, 131);
+}
+.purple {
+    background-color: plum;
+}
+.skyblue {
+    background-color: skyblue;
+}
+.light {
+    background-color: rgb(198, 213, 236);
+}
+.yellow {
+    background-color: rgb(255, 255, 176);
+}
+.green {
+    background-color: lightgreen;
+}
+.brown {
+    background-color: rgb(202, 153, 153);
+}
+.peach {
+    background-color: rgb(255, 223, 181);
+}
+.white {
+    background-color: rgb(253, 248, 235);
+}
+.pink {
+    background-color: pink;
+}
